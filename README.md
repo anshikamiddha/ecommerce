@@ -111,15 +111,6 @@ Replace the placeholder values with your actual Appwrite credentials.
 
 **Running the Project**
 
-**Admin Dashboard Running On:**
-
-```bash
-cd admin
-```
-
-```bash
-npm run dev
-```
 
 **Backend Running On:**
 
@@ -141,7 +132,6 @@ cd frontend
 npm run dev
 ```
 
-Open [http://localhost:5174](http://localhost:5174) in your browser to view the admin dashboard.
 
 Open [http://localhost:400](http://localhost:400) in your browser to run the backend.
 
