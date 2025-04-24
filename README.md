@@ -29,10 +29,3 @@ Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-com
 - **JWT**: JSON Web Tokens for secure user sessions.
 
 
-
-
-
-
-Open [http://localhost:400](http://localhost:400) in your browser to run the backend.
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the frontend project.
